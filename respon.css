@@ -1,0 +1,276 @@
+@media (min-width: 320px) and (max-width: 480px){
+    .logo{
+        width: 40%;
+    }
+    .banner .images{
+        margin-top: -0%;
+    }
+    .top_btn{
+        width: 100%;
+        padding: 15px 0px;
+    }
+    .video{
+        width: 90%;
+        margin: auto;
+    }
+    .title{
+        width: 90%;
+        margin: auto;
+    }
+    .title p{
+        padding: 5px 0px;
+        text-align: center;
+        font-size: 15px;
+        color: #fff;
+    }
+    .title h1{
+        padding: 5px 0px;
+        text-align: center;
+        font-size: 18px;
+        color: #fff;
+    }
+    .title h1 span{
+        padding: 5px 0px;
+        text-align: center;
+        font-size: 18px;
+        color: #ffff00;
+    }
+    .big_icon{
+        width: 90%;
+    }
+    .big_icon .box .icon{
+        width: 80%;
+        margin: auto;
+        padding: 5px;
+    }
+    .big_icon .box p{
+        text-align: center;
+        font-size: 15px;
+        color: #fff;
+    }
+    .icon_app{
+        width: 100%;
+        display: inline-block;
+    }
+    .icon_app .box{
+        width: 80%;
+        margin: auto;
+        padding: 0px;
+    }
+    .icon_app .box img{
+        width: 50%;
+        float: left;
+        padding: 10px;
+    }
+
+    .title2{
+        width: 90%;
+        margin: auto;
+    }
+    .title2 h1{
+        text-align: center;
+        font-size: 18px;
+        color: #fff;
+    }
+    .title2 p{
+        text-align: center;
+        font-size: 15px;
+        color: #fff;
+        padding: 5px 0px;
+    }
+    .phone1,
+    .phone2{
+        width: 90%;
+        margin: auto;
+    }
+    .btn_fix{
+        position: fixed;
+        bottom: 5%;
+        right: 2%;
+        width: 15%;
+    }
+}
+@media (min-width: 481px) and (max-width: 767px){
+    .logo{
+        width: 40%;
+    }
+    .banner .images{
+        margin-top: -0%;
+    }
+    .top_btn{
+        width: 100%;
+        padding: 15px 0px;
+    }
+    .video{
+        width: 80%;
+        margin: auto;
+    }
+    .title{
+        width: 80%;
+        margin: auto;
+    }
+    .title p{
+        padding: 5px 0px;
+        text-align: center;
+        font-size: 15px;
+        color: #fff;
+    }
+    .title h1{
+        padding: 5px 0px;
+        text-align: center;
+        font-size: 18px;
+        color: #fff;
+    }
+    .title h1 span{
+        padding: 5px 0px;
+        text-align: center;
+        font-size: 18px;
+        color: #ffff00;
+    }
+    .big_icon{
+        width: 80%;
+    }
+    .big_icon .box .icon{
+        width: 80%;
+        margin: auto;
+        padding: 5px;
+    }
+    .big_icon .box p{
+        text-align: center;
+        font-size: 15px;
+        color: #fff;
+    }
+    .icon_app{
+        width: 100%;
+        display: inline-block;
+    }
+    .icon_app .box{
+        width: 80%;
+        margin: auto;
+        padding: 0px;
+    }
+    .icon_app .box img{
+        width: 33.3%;
+        float: left;
+        padding: 10px;
+    }
+
+    .title2{
+        width: 80%;
+        margin: auto;
+    }
+    .title2 h1{
+        text-align: center;
+        font-size: 18px;
+        color: #fff;
+    }
+    .title2 p{
+        text-align: center;
+        font-size: 15px;
+        color: #fff;
+        padding: 5px 0px;
+    }
+    .phone1,
+    .phone2{
+        width: 80%;
+        margin: auto;
+    }
+    .btn_fix{
+        position: fixed;
+        bottom: 5%;
+        right: 2%;
+        width: 10%;
+    }
+}
+@media (min-width: 768px) and (max-width: 1024px){
+    .logo{
+        width: 30%;
+    }
+    .banner .images{
+        margin-top: -4%;
+    }
+    .top_btn{
+        width: 60%;
+        padding: 15px 0px;
+    }
+    .video{
+        width: 60%;
+        margin: auto;
+    }
+    .title{
+        width: 60%;
+        margin: auto;
+    }
+    .title p{
+        padding: 5px 0px;
+        text-align: center;
+        font-size: 18px;
+        color: #fff;
+    }
+    .title h1{
+        padding: 5px 0px;
+        text-align: center;
+        font-size: 22px;
+        color: #fff;
+    }
+    .title h1 span{
+        padding: 5px 0px;
+        text-align: center;
+        font-size: 22px;
+        color: #ffff00;
+    }
+    .big_icon{
+        width: 60%;
+    }
+    .big_icon .box .icon{
+        width: 60%;
+        margin: auto;
+        padding: 5px;
+    }
+    .big_icon .box p{
+        text-align: center;
+        font-size: 18px;
+        color: #fff;
+    }
+    .icon_app{
+        width: 100%;
+        display: inline-block;
+    }
+    .icon_app .box{
+        width: 60%;
+        margin: auto;
+        padding: 0px;
+    }
+    .icon_app .box img{
+        width: 33.3%;
+        float: left;
+        padding: 10px;
+    }
+
+    .title2{
+        width: 60%;
+        margin: auto;
+    }
+    .title2 h1{
+        text-align: center;
+        font-size: 18px;
+        color: #fff;
+    }
+    .title2 p{
+        text-align: center;
+        font-size: 18px;
+        color: #fff;
+        padding: 5px 0px;
+    }
+    .phone1,
+    .phone2{
+        width: 60%;
+        margin: auto;
+    }
+    .btn_fix{
+        position: fixed;
+        bottom: 2%;
+        right: 2%;
+        width: 8%;
+    }
+}
